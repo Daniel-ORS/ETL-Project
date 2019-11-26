@@ -1,0 +1,49 @@
+match_num,round/group,date,time,stadium,where,home,home_score,away_score,away,home_scorers,away_scorers
+1,Group A,12-Jun,17:00, Arena de Sí£o Paulo,Sí£o Paulo,Brazil,3,1,Croatia,"Neymar 29', 71' (pen.) Oscar 90+1'", Marcelo 11' (o.g.)
+2,Group A,13-Jun,13:00, Estíçdio das Dunas,Natal,Mexico,1,0,Cameroon,Oribe Peralta 61',
+17,Group A,17-Jun,16:00, Estíçdio Castelí£o,Fortaleza,Brazil,0,0,Mexico,,
+18,Group A,18-Jun,18:00, Arena AmazíÇnia,Manaus,Cameroon,0,4,Croatia,," Ivica OliÛˆ 11' Ivan PeriçiÛˆ 48' Mario Mand_ukiÛˆ 61', 73'"
+33,Group A,23-Jun,17:00, Estíçdio Nacional Maní© Garrincha,Brasí_lia,Cameroon,1,4,Brazil,Joel Matip 26'," Neymar 17', 35' Fred 49' Fernandinho 84'"
+34,Group A,23-Jun,17:00, Arena Pernambuco,Recife,Croatia,1,3,Mexico,Ivan PeriçiÛˆ 87', Rafael Míçrquez 72' Andres Guardado 75' Javier Herníçndez 82'
+3,Group B,13-Jun,16:00, Arena Fonte Nova,Salvador,Spain,1,5,Netherlands,Xabi Alonso 27' (pen.)," Robin Van Persie 44', 72' Arjen Robben 53', 80' Stefan De Vrij 65'"
+4,Group B,13-Jun,18:00, Arena Pantanal,Cuiabíç,Chile,3,1,Australia,Alexis Síçnchez 12' Jorge Valdí_via 14' Jean Beausejour 90+2', Cahill 35'
+19,Group B,18-Jun,16:00, Estíçdio do Maracaní£,Rio de Janeiro,Spain,0,2,Chile,, Eduardo Vargas 20' Charles Aríçnguiz 43'
+20,Group B,18-Jun,13:00, Estíçdio Beira-Rio,Porto Alegre,Australia,2,3,Netherlands,Tim Cahill 21' Mile Jedinak 54' (pen.), Arjen Robben 20' Robin Van Persie 58' Memphis Depay 68'
+35,Group B,23-Jun,13:00, Arena da Baixada,Curitiba,Australia,0,3,Spain,, David Villa 36' Fernando Torres 69' Juan Mata 82'
+36,Group B,23-Jun,13:00, Arena de Sí£o Paulo,Sí£o Paulo,Netherlands,2,0,Chile,Leroy Fer 77' Memphis Depay 90+2',
+5,Group C,14-Jun,13:00, Estíçdio Mineirí£o,Belo Horizonte,Colombia,3,0,Greece,Pablo Armero 5' Teofilo Gutií©rrez 58' James Rodrí_guez 90+3',
+6,Group C,14-Jun,22:00, Arena Pernambuco,Recife,CíÇte d'Ivoire,2,1,Japan,Wilfried Bony 64' Gervinho 66', Keisuke Honda 16'
+21,Group C,19-Jun,13:00, Estíçdio Nacional Maní© Garrincha,Brasí_lia,Colombia,2,1,CíÇte d'Ivoire,"James Rodrí_guez 64', Juan Quintero 70'", Gervinho 73'
+22,Group C,19-Jun,19:00, Estíçdio das Dunas,Natal,Japan,0,0,Greece,,
+37,Group C,24-Jun,16:00, Arena Pantanal,Cuiabíç,Japan,1,4,Colombia,Shinji Okazaki 45+1'," Juan Cuadrado 17' (pen.) Jackson Martí_nez 55', 82' James Rodrí_guez 90'"
+38,Group C,24-Jun,17:00, Estíçdio Castelí£o,Fortaleza,Greece,2,1,CíÇte d'Ivoire,Andreas Samaris 42' Georgios Samaras 90+3' (pen.), Wilfried Bony 74'
+7,Group D,14-Jun,16:00, Estíçdio Castelí£o,Fortaleza,Uruguay,1,3,Costa Rica,Edinson Cavani 24' (pen.), Joel Campbell 54' Oscar Duarte 57' Marcos Ureí±a 84'
+8,Group D,14-Jun,18:00, Arena AmazíÇnia,Manaus,England,1,2,Italy,Daniel Sturridge 37', Claudio Marchisio 35' Mario Balotelli 50'
+23,Group D,19-Jun,16:00, Arena de Sí£o Paulo,Sí£o Paulo,Uruguay,2,1,England,"Luis Suíçrez 39', 85'", Wayne Rooney 75'
+24,Group D,20-Jun,13:00, Arena Pernambuco,Recife,Italy,0,1,Costa Rica,, Bryan Ruiz 44'
+39,Group D,24-Jun,13:00, Estíçdio das Dunas,Natal,Italy,0,1,Uruguay,, Diego Godí_n 81'
+40,Group D,24-Jun,13:00, Estíçdio Mineirí£o,Belo Horizonte,Costa Rica,0,0,England,,
+9,Group E,15-Jun,13:00, Estíçdio Nacional Maní© Garrincha,Brasí_lia,Switzerland,2,1,Ecuador,Admir Mehmedi 48' Haris SeferoviÛˆ 90+3', Enner Valencia 22'
+10,Group E,15-Jun,16:00, Estíçdio Beira-Rio,Porto Alegre,France,3,0,Honduras,"Noel Valladares 48' (o.g.) Karim Benzema 45' (pen.), 72'",
+25,Group E,20-Jun,16:00, Arena Fonte Nova,Salvador,Switzerland,2,5,France,Blerim D_emaili 81' Granit Xhaka 87', Olivier Giroud 17' Blaise Matuidi 18' Mathieu Valbuena 40' Karim Benzema 67' Moussa Sissoko 73'
+26,Group E,20-Jun,19:00, Arena da Baixada,Curitiba,Honduras,1,2,Ecuador,Carlo Costly 31'," Enner Valencia 34', 65'"
+41,Group E,25-Jun,16:00, Arena AmazíÇnia,Manaus,Honduras,0,3,Switzerland,," Xherdan Shaqiri 6', 31', 71'"
+42,Group E,25-Jun,17:00, Estíçdio do Maracaní£,Rio de Janeiro,Ecuador,0,0,France,,
+11,Group F,15-Jun,19:00, Estíçdio do Maracaní£,Rio de Janeiro,Argentina,2,1,Bosnia-Herzegovina,Sead Kolaçinac 3' (o.g.) Lionel Messi 65', Vedad IbiçeviÛˆ 85'
+12,Group F,16-Jun,16:00, Arena da Baixada,Curitiba,Iran,0,0,Nigeria,,
+27,Group F,21-Jun,13:00, Estíçdio Mineirí£o,Belo Horizonte,Argentina,1,0,Iran,Lionel Messi 90',
+28,Group F,21-Jun,18:00, Arena Pantanal,Cuiabíç,Nigeria,1,0,Bosnia-Herzegovina,Peter Odemwingie 29',
+43,Group F,25-Jun,13:00, Estíçdio Beira-Rio,Porto Alegre,Nigeria,2,3,Argentina,"Ahmed Musa 4', 47'"," Lionel Messi 3', 45+1' Marcos Rojo 50'"
+44,Group F,25-Jun,13:00, Arena Fonte Nova,Salvador,Bosnia-Herzegovina,3,1,Iran,Edin D_eko 23' Miralem PjaniÛˆ 59' Avdija VrçajeviÛˆ 83', Reza Ghoochannejhad 82'
+13,Group G,16-Jun,13:00, Arena Fonte Nova,Salvador,Germany,4,0,Portugal,"Thomas Mí_ller 12' (pen.), 45+1', 78', Mats Hummels 32'",
+14,Group G,16-Jun,19:00, Estíçdio das Dunas,Natal,Ghana,1,2,United States,Andrí© Ayew 82'," Clint Dempsey 1', John Brooks 86'"
+29,Group G,21-Jun,16:00, Estíçdio Castelí£o,Fortaleza,Germany,2,2,Ghana,54' Asamoah Gyan 63',
+30,Group G,22-Jun,18:00, Arena AmazíÇnia,Manaus,United States,2,2,Portugal,"Jermaine Jones 64', Clint Dempsey 81'"," Nani 5', Varela 90+5'"
+45,Group G,26-Jun,13:00, Arena Pernambuco,Recife,United States,0,1,Germany,, Thomas Mí_ller 55'
+46,Group G,26-Jun,13:00, Estíçdio Nacional Maní© Garrincha,Brasí_lia,Portugal,2,1,Ghana,John Boye 31' (o.g.) Cristiano Ronaldo 80', Asamoah Gyan 57'
+15,Group H,17-Jun,13:00, Estíçdio Mineirí£o,Belo Horizonte,Belgium,2,1,Algeria,Marouane Fellaini 70' Dries Mertens 80', Sofiane Feghouli 25' (pen.)
+16,Group H,17-Jun,18:00, Arena Pantanal,Cuiabíç,Russia,1,1,South Korea,Alexander Kerzhakov 74', Lee Keunho 68'
+31,Group H,22-Jun,13:00, Estíçdio do Maracaní£,Rio de Janeiro,Belgium,1,0,Russia,Divock Origi 88',
+32,Group H,22-Jun,16:00, Estíçdio Beira-Rio,Porto Alegre,South Korea,2,4,Algeria,Son Heung Min 50' Koo Jacheol 72', Islam Slimani 26' Rafik Halliche 28' Abdelmoumene Djabou 38' Yacine Brahimi 62'
+47,Group H,26-Jun,17:00, Arena de Sí£o Paulo,Sí£o Paulo,South Korea,0,1,Belgium,, Jan Vertonghen 78'
+48,Group H,26-Jun,17:00, Arena da Baixada,Curitiba,Algeria,1,1,Russia,Islam Slimani 60', Alexander Kokorin 6'
